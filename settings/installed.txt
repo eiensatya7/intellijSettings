@@ -1,0 +1,11 @@
+Builder Generator
+Key Promoter X
+String Manipulation
+com.chrisrm.idea.MaterialThemeUI
+com.mallowigi
+com.sburlyaev.terminal.plugin
+com.violinday
+izhangzhihao.rainbow.brackets
+lermitage.intellij.extra.icons
+mobi.hsz.idea.gitignore
+one.util.ideaplugin.screenshoter
