@@ -1,0 +1,511 @@
+{
+  "window.menuBarVisibility": "default",
+  "sync.gist": "63accb4a41e6bfc548c320a9a91b0f7a",
+  "sync.quietSync": false,
+  "sync.removeExtensions": true,
+  "sync.syncExtensions": true,
+  "sync.autoDownload": true,
+  "sync.forceDownload": false,
+  "git.enableSmartCommit": true,
+  "editor.wordWrapColumn": 180,
+  "editor.smoothScrolling": true,
+  "zenMode.centerLayout": false,
+  "terminal.external.osxExec": "iTerm.app",
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.scrollback": 10000,
+  "telemetry.enableTelemetry": false,
+  "errorLens.enabled" :false,
+  "materialTheme.autoApplyIcons": true,
+  "materialTheme.accent": "Bright Teal",
+  "liveServer.settings.CustomBrowser": "microsoft-edge",
+  "sync.autoUpload": true,
+  "window.openFoldersInNewWindow": "on",
+  "workbench.startupEditor": "newUntitledFile",
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "workbench.tree.horizontalScrolling": true,
+  "workbench.statusBar.feedback.visible": false,
+  "workbench.colorCustomizations": {
+    "editorGroupHeader.tabsBackground": "#25272c45",
+    "list.activeSelectionForeground": "#008ce3",
+    "list.inactiveSelectionForeground": "#008ce3",
+    "list.highlightForeground": "#008ce3",
+    "scrollbarSlider.activeBackground": "#b100f1",
+    "scrollbarSlider.background": "#6a009098",
+    "scrollbarSlider.hoverBackground": "#6600ff",
+    "editorSuggestWidget.highlightForeground": "#008ce3",
+    "editorSuggestWidget.selectedBackground": "#aa94b398",
+    "dropdown.foreground": "#d485ff",
+    "textLink.foreground": "#008ce3",
+    "progressBar.background": "#008ce3",
+    "pickerGroup.foreground": "#008ce3",
+    "tab.activeBorder": "#008ce3",
+    "notificationLink.foreground": "#008ce3",
+    "editorWidget.resizeBorder": "#008ce3",
+    "editorWidget.border": "#008ce3",
+    "settings.modifiedItemIndicator": "#008ce3",
+    "settings.modifiedItemForeground": "#008ce3",
+    "settings.headerForeground": "#008ce3",
+    "settings.textInputBackground": "#465269",
+    "settings.numberInputBackground": "#465269",
+    "minimap.errorHighlight": "#ff0000",
+    "errors.errorHighlight":true,
+    "list.errorForeground": "#ff0000",
+    "problemsErrorIcon.foreground": "#ff0000",
+    "editorRuler.foreground": "#ff0000",
+    "editorMarkerNavigationError.background": "#ff0000",
+
+    "panelTitle.activeBorder": "#008ce3",
+    "breadcrumb.activeSelectionForeground": "#008ce3",
+    "menu.selectionForeground": "#008ce3",
+    "menubar.selectionForeground": "#008ce3",
+    "activityBar.background": "#1b2025",
+    "titleBar.activeBackground": "#222425",
+    "titleBar.inactiveBackground": "#222425",
+
+    "titleBar.border": "#1f455c",
+    "tab.unfocusedActiveForeground": "#8a8181",
+    "tab.activeForeground": "#ffffff",
+    "tab.activeBorderTop": "#8f05ff",
+    "tab.inactiveBackground": "#171c22",
+    
+    "tab.activeBackground": "#191f2450",
+    "editorPane.background": "#1c1f22",
+    "editorGutter.background": "#24262b",
+
+    "editorLineNumber.foreground": "#757575",
+    "sideBar.background": "#1c1f22",
+    "editor.background": "#1c1f22",
+    "input.border": "#2c6485",
+    "input.background": "#00305f",
+    "menu.selectionBorder": "#01395a",
+    "menu.background": "#232f33",
+    "sideBar.border": "#1f455c",
+    "editor.selectionHighlightBackground": "#00306e",
+    "editor.selectionBackground": "#05326d",
+    "editorError.foreground": "#ff0022",
+    
+    
+    "editorWarning.foreground": "#ff5e00",
+    "editorCursor.foreground": "#00ddff",
+    "quickInput.foreground": "#d27eff",
+    "notebook.cellBorderColor": "#0066ff6e",
+
+    "sideBarSectionHeader.background": "#28292b",
+    "statusBar.background": "#383b3f",
+    "statusBar.noFolderBackground" : "#383b3f",
+    "statusBar.debuggingBackground": "#383b3f"
+
+    
+  },
+  "cSpell.language": "en",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.fontFamily": "Operator Mono Lig Light",
+  "breadcrumbs.enabled": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "terminal.integrated.rendererType": "dom",
+  "editor.mouseWheelScrollSensitivity": 2,
+  "python.jediEnabled": false,
+  "extensions.ignoreRecommendations": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "python.languageServer": "Pylance",
+  "Zowe-DS-Persistent": {
+    "persistence": true,
+    "favorites": [],
+    "history": [],
+    "sessions": [],
+    "fileHistory": [],
+    "searchHistory": []
+  },
+  "Zowe-USS-Persistent": {
+    "persistence": true,
+    "favorites": [],
+    "history": [],
+    "sessions": [],
+    "fileHistory": [],
+    "searchHistory": []
+  },
+  "Zowe-Jobs-Persistent": {
+    "persistence": true,
+    "favorites": [],
+    "history": [],
+    "sessions": [],
+    "fileHistory": [],
+    "searchHistory": []
+  },
+  "files.associations": {
+    "*.COBOL*": "cobol",
+    "*.COB*": "cobol",
+    "*.COBCOPY*": "cobol",
+    "*.COPYBOOK*": "cobol",
+    "*.COPY*": "cobol",
+    "*.PL1*": "pl1",
+    "*.PLI*": "pl1",
+    "*.INC*": "pl1",
+    "*.INCLUDE*": "pl1",
+    "*.JCL*": "jcl",
+    "*.ASM*": "hlasm",
+    "*.ASSEMBLE*": "hlasm",
+    "*.HLASM*": "hlasm",
+    "*.HLA*": "hlasm"
+  },
+  "yaml.schemas": {
+    "file:///c%3A/Users/satya/.vscode/extensions/ibm.zopeneditor-1.1.1/resources/zapp-schema-0.0.1.json": ["zapp.yaml"]
+  },
+  "json.schemas": [
+    {
+      "fileMatch": ["/zapp.json"],
+      "url": "file:///c%3A/Users/satya/.vscode/extensions/ibm.zopeneditor-1.1.1/resources/zapp-schema-0.0.1.json"
+    }
+  ],
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb"
+  },
+  "kite.showWelcomeNotificationOnStartup": false,
+  "synthwave84.brightness": 1,
+  "oneDarkPro.vivid": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "entity.other.attribute-name",
+          "storage.type",
+          "keyword.control",
+          "string.template",
+          "storage.type.string.python",
+          "meta.fstring.python"
+        ],
+        "settings": {
+          "fontStyle": "italic",
+          "foreground": "#f83da1"
+        }
+      },
+      {
+        "scope": ["comment.block", "comment.line"],
+        "settings": {
+          "fontStyle": "italic",
+          "foreground": "#b288c7"
+        }
+      },
+      {
+        "scope": [
+          "meta.tag",
+          "meta.var.expr",
+          "meta.tag.attributes",
+          "meta.jsx.children",
+          "support.class.component",
+          "string.quoted",
+          "support.constant",
+          "entity.name.type",
+          "support.type",
+          "constant.numeric",
+          "constant.language"
+        ],
+        "settings": {
+          "foreground": "#c220fd"
+        }
+      },
+      {
+        "scope": [
+          "meta.function-call.generic.python",
+          "meta.function-call.arguments.python",
+          "variable.parameter.js",
+          "meta.object.member",
+          "varaible.other.constant.tsx"
+        ],
+        "settings": {
+          "foreground": "#008ff5"
+        }
+      },
+      {
+        "scope": ["meta.function-call.generic.python"],
+        "settings": {
+          "foreground": "#f5c800"
+        }
+      },
+
+      {
+        "scope": ["string.quoted"],
+        "settings": {
+          "foreground": "#a520fd"
+        }
+      },
+      {
+        "scope": ["source.python"],
+        "settings": {
+          "foreground": "#ffffffe1"
+        }
+      },
+
+      {
+        "scope": ["constant"],
+        "settings": {
+          "foreground": "#00ffff"
+        }
+      },
+      {
+        "scope": ["string.quoted.single"],
+        "settings": {
+          "foreground": "#c220fd"
+        }
+      },
+      {
+        "scope": ["variable.parameter.function-call.python"],
+        "settings": {
+          "foreground": "#f59f00"
+        }
+      },
+      {
+        "scope": [
+          "punctuation.definition.arguments.begin.python",
+          "punctuation.definition.arguments.end.python",
+          "meta.function-call.python",
+          "punctuation.definition.string"
+        ],
+        "settings": {
+          "foreground": "#c74bd0c6"
+        }
+      },
+      {
+        "scope": ["entity.name.function", "entity.name.tag"],
+        "settings": {
+          "foreground": "#eea84c"
+        }
+      },
+      {
+        "scope": ["storage.type.string.python", "meta.fstring.python"],
+        "settings": {
+          "foreground": "#f83da1"
+        }
+      },
+      {
+        "scope": ["string.template.js"],
+        "settings": {
+          "foreground": "#b100e7"
+        }
+      },
+      {
+        "scope": ["variable.other.readwrite.js"],
+        "settings": {
+          "foreground": "#00b5e7"
+        }
+      },
+      {
+        "scope": ["variable.other.object.js"],
+        "settings": {
+          "foreground": "#00b5e7"
+        }
+      },
+      {
+        "scope": ["support.class", "support.function"],
+        "settings": {
+          "foreground": "#25bfd6"
+        }
+      },
+
+      {
+        "scope": ["variable.language.special.self.python"],
+        "settings": {
+          "foreground": "#2578d6"
+        }
+      }
+    ]
+  },
+  "rest-client.enableTelemetry": false,
+  "jupyter.themeMatplotlibPlots": true,
+  "window.enableExperimentalProxyLoginDialog": false,
+  "editor.largeFileOptimizations": false,
+  "jupyter.insidersChannel": "weekly",
+  "terminal.external.windowsExec": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+  "dashboard.projectData": null,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.printWidth": 140,
+  "better-comments.highlightPlainText": true,
+  "better-comments.multilineComments": true,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#FF2D00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "?",
+      "color": "#3498DB",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "//",
+      "color": "#474747",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "todo",
+      "color": "#FF8C00",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    },
+    {
+      "tag": "*",
+      "color": "#98C379",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  "VSCodeNotion.accessToken": "a702ccfe0348e6c71a56966e6034ee96b6dfe81df3f3d7eb0f85b048b2ec052527a444a4bebd95f9fb77c5c90b580dc8ccfca76614bb0e4fe56f4e31ff2b05ea7e39e51c6de152dd10b354b941d1",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\PowerShell\\7\\pwsh.exe",
+  "terminal.integrated.fontFamily": "monospace",
+  "terminal.integrated.copyOnSelection": true,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorWidth": 2,
+  "terminal.integrated.fontSize": 12,
+  "smoothtype.duration": 1,
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "2",
+  "editor.cursorWidth": 2,
+  "editor.cursorSurroundingLines": 2,
+  "editor.cursorBlinking": "smooth",
+  "workbench.preferredHighContrastColorTheme": "Synthwave x Fluoromachine",
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/satya/.vscode/extensions/webrender.synthwave-x-fluoromachine-0.0.12/synthwave-x-fluoromachine.css"
+  ],
+  "glassit.alpha": 230,
+  "workbench.editor.highlightModifiedTabs": true,
+  "editor.scrollbar.verticalScrollbarSize": 8,
+  "editor.scrollbar.horizontalScrollbarSize": 8,
+  "editor.minimap.size": "fit",
+  "explorer.confirmDelete": false,
+  "notebook.outline.showCodeCells": true,
+  "jupyter.alwaysTrustNotebooks": true,
+  "git.ignoreWindowsGit27Warning": true,
+
+  "background.enabled": false,
+  "background.loop": false,
+  "background.useDefault": false,
+  "background.useFront": false,
+  "background.style": {
+    "content": "''",
+    "pointer-events": "none",
+    "position": "absolute",
+    "z-index": "99999",
+    "width": "70%",
+    "height": "100%",
+    "margin-left": "30%",
+    "background-position": "right",
+    "background-size": "cover",
+    "background-repeat": "no-repeat",
+    "opacity": 0.1
+  },
+  "background.customImages": ["https://ih1.redbubble.net/image.810930104.5005/raf,750x1000,075,t,FFFFFF:97ab1c12de.jpg"],
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSave": "onWindowChange",
+  "editor.minimap.maxColumn": 80,
+  "editor.lineDecorationsWidth": 0,
+  "editor.renderControlCharacters": true,
+  "aws.profile": "profile:Cosmic0Dev",
+  "php.validate.executablePath": "T:\\Programs\\php\\php.exe",
+  "phpserver.phpConfigPath": "",
+  "phpserver.phpPath": "T:\\Programs\\php\\php.exe",
+  "workbench.productIconTheme": "fluent-icons",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.options": {},
+  "javascript.preferences.quoteStyle": "single",
+  "monkeyPatch.folderMap": {
+    "my-custom-modules": "D:\\slc\\softwares\\vscode\\data\\mkpatch"
+  },
+  "monkeyPatch.browserModules": ["my-custom-modules/custom-font"],
+  "git.autofetch": true,
+  "jupyter.askForKernelRestart": false,
+  "workbench.colorTheme": "Synthwave x Fluoromachine",
+  "notebook.cellFocusIndicator": "border",
+  "notebook.compactView": false,
+  "markdown.preview.fontFamily": "Operator Mono Lig Light",
+  "markdown.preview.lineHeight": 1.1,
+  "markdown.preview.breaks": true,
+  "tabnine.experimentalAutoImports": true,
+  "editor.wordWrap": "wordWrapColumn",
+
+  "python.formatting.autopep8Args": [
+    "--max-line-length=200"
+  ],
+  "terminal.integrated.gpuAcceleration": "off",
+  "vscode_vibrancy.opacity": 0.4,
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "terminal.integrated.lineHeight": 1.1,
+  "editor.lineHeight": 1.4,
+  "editor.renderWhitespace": "none",
+  "vscode_vibrancy.type": "acrylic",
+  "cSpell.userWords": [
+    "Akib",
+    "flaskrun",
+    "microservices",
+    "perticular",
+    "Sakshi",
+    "segrgate"
+  ],
+  "grammarly.dialect": "british",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+  "references.preferredLocation": "view",
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 15,
+  "http.proxySupport": "off",
+  "window.title": "py : ${dirty}${activeEditorShort}${separator}${rootName}${separator}${appName}",
+  "remote.SSH.remotePlatform": {
+    "192.168.1.10": "linux",
+    "192.168.1.77": "linux"
+  },
+  "extensions.autoUpdate": false,
+  "python.defaultInterpreterPath": "T:\\Workspaces\\alexa_skill_workspaces\\MLProperySearch\\venv\\Scripts\\python.exe",
+  "http.proxyStrictSSL": false,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.accessibilitySupport": "off"
+}
